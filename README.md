@@ -1,0 +1,1 @@
+El objetivo de este repositorio es llevar a cabo un trabajo práctico instruido por el proyecto Odin, orientado a enseñar programación.
